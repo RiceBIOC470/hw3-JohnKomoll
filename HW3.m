@@ -1,3 +1,14 @@
+% GB comments
+1.	100
+2a. 100
+2b. 100
+2c. 100
+3a 100 
+3b. 100
+3c. 100  	
+Overall: 100
+
+
 %HW3
 
 %% Problem 1 - Smith-Waterman alignment
